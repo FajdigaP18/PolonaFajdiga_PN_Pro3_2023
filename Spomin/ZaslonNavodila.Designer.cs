@@ -50,7 +50,7 @@
             // 
             this.nazaj.AutoSize = true;
             this.nazaj.BackColor = System.Drawing.Color.Firebrick;
-            this.nazaj.Font = new System.Drawing.Font("Snap ITC", 16.2F, System.Drawing.FontStyle.Italic);
+            this.nazaj.Font = new System.Drawing.Font("Calibri", 13.8F, System.Drawing.FontStyle.Bold);
             this.nazaj.Location = new System.Drawing.Point(543, 364);
             this.nazaj.Name = "nazaj";
             this.nazaj.Size = new System.Drawing.Size(116, 46);
@@ -63,10 +63,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.PapayaWhip;
-            this.label3.Font = new System.Drawing.Font("Snap ITC", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(23, 143);
+            this.label3.Font = new System.Drawing.Font("Calibri", 13.8F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(117, 135);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(766, 189);
+            this.label3.Size = new System.Drawing.Size(605, 196);
             this.label3.TabIndex = 5;
             this.label3.Text = resources.GetString("label3.Text");
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

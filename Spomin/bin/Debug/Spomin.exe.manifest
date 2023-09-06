@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spomin.exe" size="854504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spomin.exe" size="855016">
       <assemblyIdentity name="Spomin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Pc8ufxKS0wyDLZigQGK/IDUopYHY1579bGVC5X3tlOE=</dsig:DigestValue>
+        <dsig:DigestValue>pC7GXeae6FCJVWqGjAM0lSsY5QbBtxM0iQeiGG2PEgE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
